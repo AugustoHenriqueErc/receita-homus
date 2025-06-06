@@ -1,0 +1,25 @@
+html {
+    background-color: antiquewhite;
+}
+body {
+    padding: 10px;
+    background-color: white;
+    margin: auto;
+    width: 570px;
+}
+header {
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+img {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+}
+#carrossel
+{
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
